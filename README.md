@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lartita
 - 👀 I’m interested in cars, animals, photography, and DevOps
-- 🌱 I’m currently learning CI/CD, Kubernetes, Docker, Python, NRQL
+- 🌱 I’m currently learning CI/CD, Kubernetes, Docker, Python, Kafka, Lambda, and NRQL!
 - 💞️ I’m looking to collaborate on nothing at the moment! 
 
 <!---
